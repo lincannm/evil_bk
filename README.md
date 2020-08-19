@@ -38,6 +38,35 @@ KurisuCat 整理资料 / 编写。
 
 KurisuCat 整理资料 / 编写。
 
-![3YbSV.jpg](https://wx1.sbimg.cn/2020/08/19/3YbSV.jpg)
+# 分析冰块的apk，证明魔改
 
-[![dlJab8.jpg](https://s1.ax1x.com/2020/08/19/dlJab8.jpg)](https://imgchr.com/i/dlJab8)
+**大量图片警告。尽管图片已压缩处理，图片可能还是加载有点慢，请耐心等待**
+
+> 冰块的下载地址：<https://www.lanzoui.com/b054ku65g>（欢迎以侵权为理由进行举报）
+
+咱使用MT管理器打开冰块模块的apk（图）（这图标土的要死对吧→_→正经点的软件图标都是设计出来的）
+
+![dlJab8.jpg](https://s1.ax1x.com/2020/08/19/dlJab8.jpg)
+
+编辑classes.dex（图）
+
+开   门   见   山
+
+![dlYrdO.jpg](https://s1.ax1x.com/2020/08/19/dlYrdO.md.jpg)
+
+dex里面的包名nil.nadph.qnotified是QN的。连这都不改，技术过差。
+
+咱们简单搜索一下代码，QNotified之类的字符遍地都是。（图）
+
+![dlNFUS.jpg](https://s1.ax1x.com/2020/08/19/dlNFUS.md.jpg)
+
+想问问作者，既然这个软件是你自己做的，是QN盗版你的，那么为啥dex里面一搜全是QNotified？
+
+冰块盗版QN的方法是替换常量，把QNotified换成冰块，文字变了，软件就是自己的了。
+
+咱们康康这些常量（图）
+
+![dlam7V.jpg](https://s1.ax1x.com/2020/08/19/dlam7V.md.jpg)
+
+免费开源？我怎么没见过你开过源还免费？
+
