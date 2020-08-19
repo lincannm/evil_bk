@@ -12,7 +12,7 @@ KurisuCat 整理资料 / 编写。
 
 **本页面非官方（QNotified 官方）页面**
 
-如果有补充的话请提 [Issues](https://github.com/kurisucat/evil_bk/issues)，如果需要修正语法请提 [Pull resquests](https://github.com/kurisucat/evil_bk/pulls)。
+如果有补充的话请提 [Issue](https://github.com/kurisucat/evil_bk/issues)，如果需要修正语法请提 [Pull Requests](https://github.com/kurisucat/evil_bk/pulls)。
 
 *用户行为不代表 QNotified 开发团队立场，QNotified 开发团队不对用户的个人行为负责。*
 
