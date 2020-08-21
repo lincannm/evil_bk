@@ -72,7 +72,7 @@ Lincannm 补充。
 
 ![冰块apk信息.jpg](https://s1.ax1x.com/2020/08/19/dlJab8.jpg)
 
-随后进入apk内的classes.dex，这是编译后代码的主要位置。之后马上就可以看到QN的包名。
+随后进入apk内的classes.dex，这是编译后代码的主要位置。之后马上就可以看到QN的包名（太容易暴露了哈哈）。
 
 ![dex内容.jpg](https://s1.ax1x.com/2020/08/19/dlYrdO.md.jpg)
 
